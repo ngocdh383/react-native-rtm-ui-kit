@@ -1,0 +1,48 @@
+{
+    "name": "react-native-rtm-ui-kit",
+    "title": "React Native Rtm Ui Kit",
+    "version": "1.0.0",
+    "description": "TODO",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "files": [
+        "README.md",
+        "index.js",
+        "index.d.ts",
+        "src"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ngocdh383/react-native-rtm-ui-kit.git",
+        "baseUrl": "https://github.com/ngocdh383/react-native-rtm-ui-kit"
+    },
+    "keywords": [
+        "react-native"
+    ],
+    "author": {
+        "name": "Dinh Hong Ngoc",
+        "email": "dinhhongngoc1234@gmail.com"
+    },
+    "license": "MIT",
+    "licenseFilename": "LICENSE",
+    "readmeFilename": "README.md",
+    "peerDependencies": {
+        "react": "^16.8.1",
+        "react-native": ">=0.60.0-rc.0 <1.0.x",
+        "react-native-device-info": "^8.1.2",
+        "react-native-linear-gradient": "^2.5.6",
+        "react-native-safe-area-context": "^3.2.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^26.0.23",
+        "@types/react": "^17.0.4",
+        "@types/react-native": "^0.64.4",
+        "@types/react-test-renderer": "^17.0.1",
+        "react": "^16.9.0",
+        "react-native": "^0.61.5",
+        "typescript": "^4.2.4"
+    }
+}
